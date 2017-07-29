@@ -15,7 +15,7 @@ namespace ConsoleApplication1
 
         void kk()
             {
-            Console.WriteLine("test"); 
+            Console.WriteLine("test.."); 
             }
     }
 }
